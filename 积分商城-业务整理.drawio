@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T09:35:57.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="sBV6Llj57gGBONKt_H46" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T09:37:42.504Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qIWIOxgFCFcYkQ477Kzm" version="14.0.1" type="github">
   <diagram id="adaZDFtTdaTdH5FZkwva" name="第 1 页">
     <mxGraphModel dx="946" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="AnFC6immAzE9Fkh495sT-2" value="积分场景scene表 " style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="50" y="-940" width="280" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-3" value="id  自增ID&#xa;name  类型名称&#xa;&#xa;appid        应用ID(appid可确定CG）&#xa;catelog     分类ID&#xa;op_type    类型 1-固定操作 2范围操作&#xa;type          分摊类型 1-固定操作 2范围操作&#xa;num          固定积分数&#xa;max_num 最大积分数&#xa;&#xa;day_threshold    日阈值&#xa;mon_threshold   月阈值&#xa;&#xa;empl_id       申请Id&#xa;empl_name 申请人名称&#xa;dept_id        部门人Id&#xa;dept_name 部门名称" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="AnFC6immAzE9Fkh495sT-2" vertex="1">
+        <mxCell id="AnFC6immAzE9Fkh495sT-3" value="id  自增ID&#xa;name  类型名称&#xa;&#xa;appid        应用ID(appid可确定CG）&#xa;catelog     分类ID&#xa;op_type    类型 1-固定操作 2范围操作&#xa;type          分摊类型 1-不可分摊 2-可分摊&#xa;num          固定积分数&#xa;max_num 最大积分数&#xa;&#xa;day_threshold    日阈值&#xa;mon_threshold   月阈值&#xa;&#xa;empl_id       申请Id&#xa;empl_name 申请人名称&#xa;dept_id        部门人Id&#xa;dept_name 部门名称" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="AnFC6immAzE9Fkh495sT-2" vertex="1">
           <mxGeometry y="30" width="280" height="250" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-5" value="分类catalog (配置文件)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
