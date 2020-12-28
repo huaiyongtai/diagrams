@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T08:45:46.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8qLeG2IirrUl1tTCDk0L" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T09:39:52.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="-e3oAbYO4ZkI5Hnrb2q_" version="14.0.1" type="github">
   <diagram id="adaZDFtTdaTdH5FZkwva" name="第 1 页">
-    <mxGraphModel dx="1562" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="781" dy="1466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -639,7 +639,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-215" value="增加积分总数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="845" y="-480" width="120" height="40" as="geometry" />
+          <mxGeometry x="846" y="-479.32" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-216" target="AnFC6immAzE9Fkh495sT-215">
           <mxGeometry relative="1" as="geometry" />
@@ -660,54 +660,37 @@
           <mxGeometry x="1058" y="-524.13" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-229" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-227" target="AnFC6immAzE9Fkh495sT-222">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="-584" />
+              <mxPoint x="1220" y="-551" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-248" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;历史月份&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="AnFC6immAzE9Fkh495sT-229">
+        <mxCell id="AnFC6immAzE9Fkh495sT-248" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="AnFC6immAzE9Fkh495sT-229">
           <mxGeometry x="-0.6386" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-227" value="&lt;br&gt;月收入统计表余额" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1266" y="-619.5" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-241" target="AnFC6immAzE9Fkh495sT-222">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-249" value="&lt;span style=&quot;text-align: left ; background-color: rgb(248 , 249 , 250)&quot;&gt;当月&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="AnFC6immAzE9Fkh495sT-243">
-          <mxGeometry x="-0.4458" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-255" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-241" target="AnFC6immAzE9Fkh495sT-251">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-262" value="当日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="AnFC6immAzE9Fkh495sT-255">
-          <mxGeometry x="0.4165" y="-1" relative="1" as="geometry">
-            <mxPoint x="11.76" y="-1.04" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-241" value="cache&lt;br&gt;(tw/redis)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;align=center;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="1266" y="-536.25" width="79.5" height="40" as="geometry" />
+          <mxGeometry x="1279" y="-608.88" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-242" value="key:uc_point_mon_balance_[mon]_[talo] &lt;br&gt;value:total&lt;br&gt;过期时间:7天" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1200.5" y="-489.5" width="230" height="40" as="geometry" />
+          <mxGeometry x="1715" y="-373.88" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-251" value="cache&lt;br&gt;(tw/redis)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;align=center;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="1509" y="-504" width="79.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-257" target="AnFC6immAzE9Fkh495sT-241">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-260" value="历史日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="AnFC6immAzE9Fkh495sT-258">
-          <mxGeometry x="-0.3167" relative="1" as="geometry">
-            <mxPoint x="18.24" y="-0.06" as="offset" />
+        <mxCell id="AnFC6immAzE9Fkh495sT-396" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-251" target="AnFC6immAzE9Fkh495sT-222">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="-519" />
+              <mxPoint x="1220" y="-551" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-257" value="&lt;br&gt;月收入统计表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1509" y="-584" width="60" height="60" as="geometry" />
+        <mxCell id="AnFC6immAzE9Fkh495sT-251" value="cache&lt;br&gt;(tw/redis)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;align=center;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="1269.25" y="-538.88" width="79.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-264" value="key:uc_point_day_balance_[day]_[talo] &lt;br&gt;value:total&lt;br&gt;过期时间:1天" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1424" y="-454" width="220" height="40" as="geometry" />
+          <mxGeometry x="1219" y="-498.88" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-292" target="AnFC6immAzE9Fkh495sT-294">
           <mxGeometry relative="1" as="geometry" />
@@ -715,7 +698,7 @@
         <mxCell id="AnFC6immAzE9Fkh495sT-292" value="queue&lt;br&gt;(tw/redis)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;align=center;fillColor=#A9C4EB;" vertex="1" parent="1">
           <mxGeometry x="1073" y="-408.88" width="79.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-293" value="&lt;br&gt;(根据talo取模，分20个)&lt;br&gt;key:uc_point_income_queue_flow_[no]&lt;br&gt;value:json&lt;br&gt;过期时间:永久" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="AnFC6immAzE9Fkh495sT-293" value="&lt;br&gt;(根据talo取模，分2个)&lt;br&gt;key:uc_point_income_queue_flow_[no]&lt;br&gt;value:json&lt;br&gt;过期时间:永久" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1058" y="-373.88" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-294" value="&lt;br&gt;流水日志" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
@@ -751,7 +734,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-322" value="&lt;br&gt;&lt;br&gt;账户总余额表/不分表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="-160" width="60" height="60" as="geometry" />
+          <mxGeometry x="1294" y="-168.75" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-327" value="积分扣除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="1680" y="-1080" width="653" height="40" as="geometry" />
@@ -884,6 +867,15 @@
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-387" value="获取对应talo余额" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="1735" y="-584" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-389" value="cache&lt;br&gt;(tw/redis)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;align=center;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="1735" y="-458.88" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-395" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-390" target="AnFC6immAzE9Fkh495sT-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-390" value="&lt;br&gt;收入流水-&lt;br&gt;分摊表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1439" y="-548.88" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
