@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T08:05:29.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zRkoFP3UnMteMKxF3oho" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T03:07:20.998Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="AY7mAHWlEiRkUnHB_402" version="14.0.1" type="github">
   <diagram id="adaZDFtTdaTdH5FZkwva" name="第 1 页">
-    <mxGraphModel dx="6450" dy="4839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1041" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AnFC6immAzE9Fkh495sT-204" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="-902" width="341" height="85" as="geometry" />
+        </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-1" value="&lt;div&gt;&lt;span&gt;积分类型管理&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="-1140" width="600" height="40" as="geometry" />
         </mxCell>
@@ -552,6 +555,138 @@
           <mxGeometry x="-0.2331" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-159" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4310" y="-1160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-163" target="AnFC6immAzE9Fkh495sT-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-177" value="聚合" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="AnFC6immAzE9Fkh495sT-174">
+          <mxGeometry x="-0.0836" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-163" value="日收入统计&lt;br&gt;(次日凌晨)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1200.5" y="-1135" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-164" value="月收入统计&lt;br&gt;次月凌晨" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="-1135" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-180" value="聚合" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-169" target="AnFC6immAzE9Fkh495sT-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-169" value="收入流水表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="-1135" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-182" target="AnFC6immAzE9Fkh495sT-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-182" value="兑换积分&lt;br&gt;答题/上课奖励&lt;br&gt;客服增加" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-1140" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-184" value="新旧积分兑换流程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-185" target="AnFC6immAzE9Fkh495sT-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-185" value="平台兑换积分流程&lt;br&gt;talid，cg, 积分数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-210" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-186" target="AnFC6immAzE9Fkh495sT-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-186" value="兑换cg对应金币数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-188" target="AnFC6immAzE9Fkh495sT-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-188" value="兑换比率&lt;br&gt;(配置文件)&amp;nbsp; &amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="-730" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-189" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-740" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-208" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-190" target="AnFC6immAzE9Fkh495sT-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-190" value="talid转换talo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-203" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-204" target="AnFC6immAzE9Fkh495sT-190">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="-860" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-205" value="cg+talid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="AnFC6immAzE9Fkh495sT-203">
+          <mxGeometry x="-0.13" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-191" value="cache&lt;br&gt;(tw/redis)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-890" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-193" target="AnFC6immAzE9Fkh495sT-191">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="-870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-201" value="加载缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="AnFC6immAzE9Fkh495sT-200">
+          <mxGeometry x="-0.036" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-193" value="api-user&lt;br&gt;[cg、talid]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="-890" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-197" value="uc_point_talo_[cg]_[talid] =&amp;gt; talo&lt;br&gt;过期时间：1天" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="-847" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-217" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-209" target="AnFC6immAzE9Fkh495sT-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-209" value="发起事业部扣除对应金币请求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-211" target="AnFC6immAzE9Fkh495sT-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-211" value="转换成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="935" y="-820" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-230" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-215">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="-477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-215" value="增加金币总数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-216" target="AnFC6immAzE9Fkh495sT-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-216" value="扣除成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="935" y="-584.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-219" value="增加金币总数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-221" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="-524.5" width="331" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-222" value="cache&lt;br&gt;(tw/redis)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-504" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-226" value="uc_point_balance_[talo] =&amp;gt; total&lt;br&gt;过期时间：1天" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="-461" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-229" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-227" target="AnFC6immAzE9Fkh495sT-222">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-227" value="收入统计余额表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="-514" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
