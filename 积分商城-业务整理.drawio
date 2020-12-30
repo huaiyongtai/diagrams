@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T06:38:28.361Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="lBRTYoPLyZI-GmwvvTW2" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T06:52:52.141Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_qbZLY2Mqmagp3mqBset" version="14.0.1" type="github">
   <diagram id="adaZDFtTdaTdH5FZkwva" name="第 1 页">
-    <mxGraphModel dx="851" dy="1521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1276" dy="1697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AnFC6immAzE9Fkh495sT-370" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="2094.75" y="-882" width="341" height="85" as="geometry" />
+          <mxGeometry x="2000" y="-865" width="341" height="85" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-204" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="-905" width="341" height="85" as="geometry" />
@@ -562,8 +562,8 @@
         <mxCell id="AnFC6immAzE9Fkh495sT-159" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="4310" y="-1160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-184" value="新旧积分兑换流程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-1040" width="680" height="40" as="geometry" />
+        <mxCell id="AnFC6immAzE9Fkh495sT-184" value="新旧积分兑换流程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-1081" width="680" height="41" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-400" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-185" target="AnFC6immAzE9Fkh495sT-190">
           <mxGeometry relative="1" as="geometry" />
@@ -634,7 +634,7 @@
             <mxPoint x="800" y="-340" as="targetPoint" />
             <Array as="points">
               <mxPoint x="750" y="-770" />
-              <mxPoint x="750" y="-370" />
+              <mxPoint x="750" y="-310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -659,8 +659,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="-370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="750" y="-534" />
-              <mxPoint x="750" y="-370" />
+              <mxPoint x="750" y="-535" />
+              <mxPoint x="750" y="-310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -668,7 +668,7 @@
           <mxGeometry x="860" y="-564.5" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-219" value="完毕" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="845" y="-390" width="120" height="40" as="geometry" />
+          <mxGeometry x="850" y="-330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-221" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="-603.41" width="445" height="306.82" as="geometry" />
@@ -694,9 +694,6 @@
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-227" value="&lt;br&gt;月收入统计表余额" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
           <mxGeometry x="1274" y="-585.4699999999999" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-242" value="key:uc_point_mon_balance_[mon]_[talo] &lt;br&gt;value:total&lt;br&gt;过期时间:7天" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2184.75" y="-665" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-396" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-251" target="AnFC6immAzE9Fkh495sT-222">
           <mxGeometry relative="1" as="geometry">
@@ -794,7 +791,7 @@
           <mxGeometry x="1660" y="-1040" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-337" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="2093.75" y="-1000" width="341" height="85" as="geometry" />
+          <mxGeometry x="2000" y="-1021" width="341" height="85" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-349" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-358" target="AnFC6immAzE9Fkh495sT-382">
           <mxGeometry relative="1" as="geometry">
@@ -803,11 +800,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-342" value="cache&lt;br&gt;(tw/redis)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2124.75" y="-988" width="79.5" height="40" as="geometry" />
+          <mxGeometry x="2045.5" y="-1009" width="79.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-343" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-345" target="AnFC6immAzE9Fkh495sT-342">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2254.75" y="-968" as="targetPoint" />
+            <mxPoint x="2175.5" y="-989" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-344" value="加载缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="AnFC6immAzE9Fkh495sT-343">
@@ -816,31 +813,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-345" value="api-user&lt;br&gt;[cg、talid]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2294.75" y="-988" width="120" height="40" as="geometry" />
+          <mxGeometry x="2215.5" y="-1009" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-346" value="uc_point_talo_[cg]_[talid] =&amp;gt; talo&lt;br&gt;过期时间：1天" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2094.75" y="-945" width="190" height="30" as="geometry" />
+          <mxGeometry x="2015.5" y="-966" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-350" value="cache&lt;br&gt;(tw/redis)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;align=center;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="1945" y="-796.75" width="79.5" height="40" as="geometry" />
+          <mxGeometry x="1910.5" y="-796.75" width="79.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-351" value="key:uc_point_balance_[talo]&lt;br&gt;value:total&lt;br&gt;过期时间:7天" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="-750" width="160" height="40" as="geometry" />
+          <mxGeometry x="1895.5" y="-750" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-355" value="secen_id &lt;br&gt;&amp;gt; catalog&lt;br&gt;&amp;gt;op_type&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;arcSize=38;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="-944.25" width="58" height="84.5" as="geometry" />
+        <mxCell id="AnFC6immAzE9Fkh495sT-355" value="secen_id &amp;gt; catalog &amp;gt;op_type&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;arcSize=38;" vertex="1" parent="1">
+          <mxGeometry x="1995.25" y="-924.12" width="180" height="44.25" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-358" value="talid转换对应talo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="1735" y="-922" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-360" value="talid下对应talo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2105.5" y="-862" width="120" height="40" as="geometry" />
+          <mxGeometry x="2008" y="-860" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-362" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-361" target="AnFC6immAzE9Fkh495sT-360">
+        <mxCell id="AnFC6immAzE9Fkh495sT-362" value="加载缓存" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-361" target="AnFC6immAzE9Fkh495sT-360">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-361" value="api-user&lt;br&gt;talid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2285.75" y="-862" width="120" height="40" as="geometry" />
+          <mxGeometry x="2215.5" y="-860" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-367" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-365" target="AnFC6immAzE9Fkh495sT-358">
           <mxGeometry relative="1" as="geometry" />
@@ -858,14 +855,11 @@
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-378" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="AnFC6immAzE9Fkh495sT-376">
           <mxGeometry x="0.0748" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="9.86" y="1.53" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-365" value="是否分摊" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;align=center;" vertex="1" parent="1">
           <mxGeometry x="1900" y="-932" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-380" value="可加短期缓存" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2204.25" y="-820" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-383" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-382" target="AnFC6immAzE9Fkh495sT-350">
           <mxGeometry relative="1" as="geometry" />
@@ -886,15 +880,12 @@
             <mxPoint x="1690" y="-360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1660" y="-680" />
-              <mxPoint x="1660" y="-120" />
+              <mxPoint x="1660" y="-139" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-384" value="是否足够扣除" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;align=center;" vertex="1" parent="1">
           <mxGeometry x="1750" y="-710" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AnFC6immAzE9Fkh495sT-389" value="cache&lt;br&gt;(tw/redis)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;align=center;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="2204.75" y="-750" width="79.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-395" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-390" target="AnFC6immAzE9Fkh495sT-251">
           <mxGeometry relative="1" as="geometry" />
@@ -1068,7 +1059,7 @@
           <mxGeometry x="1780" y="-230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-518" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;sketch=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="-140.00000000000003" width="120" height="40" as="geometry" />
+          <mxGeometry x="1780" y="-158.75000000000003" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-525" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="AnFC6immAzE9Fkh495sT-521" target="AnFC6immAzE9Fkh495sT-524">
           <mxGeometry relative="1" as="geometry" />
@@ -1123,6 +1114,9 @@
         </mxCell>
         <mxCell id="AnFC6immAzE9Fkh495sT-543" value="收入过期积分&lt;br&gt;&lt;br&gt;超过过期时间且&lt;br&gt;收入流水余额大于0的" style="shape=card;whiteSpace=wrap;html=1;shadow=1;fillColor=#A9C4EB;fontSize=10;align=center;" vertex="1" parent="1">
           <mxGeometry x="2077" y="-396.59" width="134.5" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="AnFC6immAzE9Fkh495sT-544" value="uc_point_talo_[talo] =&amp;gt; [talo1,talo2..]&lt;br&gt;过期时间:30分钟" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="2025.5" y="-810" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
